@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1541037184 source:/home/kallaf/Documents/CodeBlocksProjects/Solar system/main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<vector>
+	<cstdlib>
+	"tga.h"
+
+1215443608 /home/kallaf/Documents/CodeBlocksProjects/Solar system/SOIL.h
+
+1541029337 source:/home/kallaf/Documents/CodeBlocksProjects/Solar system/tga.cpp
+	"tga.h"
+	<cstdio>
+	<cstdlib>
+	<Windows.h>
+	<GL/glut.h>
+
+1541029327 /home/kallaf/Documents/CodeBlocksProjects/Solar system/tga.h
+	<Windows.h>
+	<GL/glut.h>
+
