@@ -1,5 +1,5 @@
 # Solar-System
-Solar System c++ project for computer graphics drawing the sun , earth and moon each rotating in there orbits in 3D using opengl library including texture and lighting
+3D Simulation for the solar system, using c++ Opengl library.
 
 ## Screenshots
 
